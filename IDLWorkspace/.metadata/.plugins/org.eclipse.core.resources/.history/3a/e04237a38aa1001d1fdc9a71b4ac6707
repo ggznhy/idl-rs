@@ -1,0 +1,12 @@
+; 注释
+
+
+pro LearnProject
+
+a = [1,2,3]
+
+for i=0,3 do begin
+  print,i
+endfor
+
+end

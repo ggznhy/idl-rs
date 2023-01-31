@@ -1,0 +1,5 @@
+; 注释
+
+pro temp
+  print, 'Hello world'
+end

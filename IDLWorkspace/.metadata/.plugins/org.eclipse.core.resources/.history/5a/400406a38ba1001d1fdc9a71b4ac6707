@@ -1,0 +1,5 @@
+;
+
+pro temp
+  print, 'Hello world'
+end
