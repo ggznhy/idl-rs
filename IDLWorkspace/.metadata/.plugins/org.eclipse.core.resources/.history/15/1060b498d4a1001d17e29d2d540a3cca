@@ -2,6 +2,6 @@
 
 ; 续行符 $ 分隔符  &
 
-pro LearnProject
+pro temp
   print, 'Hello world'
 end
