@@ -1,0 +1,18 @@
+; 第三章 IDL编程基础
+; 
+; 3.1 过程和函数
+; 3.1.1 过程
+pro chapter3
+  print, 'Hello World'
+end
+
+; 3.1.2 函数
+function test, deg
+; 将角度转为弧度，有一个参数deg
+  radian = deg * !dtor
+  return, radian
+ end
+ 
+ ; 3.1.3 程序的相互调用
+ 
+ 

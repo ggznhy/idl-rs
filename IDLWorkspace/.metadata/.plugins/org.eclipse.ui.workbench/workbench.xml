@@ -25,9 +25,9 @@
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="com.rsi.idldt.proeditor.ProEditor" name="LearnProject.pro" partName="LearnProject.pro" path="E:/MyCode/IDL/IDLWorkspace/LearnProject/LearnProject.pro" title="LearnProject.pro" tooltip="LearnProject/LearnProject.pro" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LearnProject/LearnProject.pro"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="63" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="com.rsi.idldt.proeditor.ProEditor" name="chapter3.pro" partName="chapter3.pro" path="E:/MyCode/IDL/IDLWorkspace/LearnProject/chapter3.pro" title="chapter3.pro" tooltip="LearnProject/chapter3.pro" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LearnProject/chapter3.pro"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -144,6 +144,7 @@
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" uri="file:/E:/MyCode/IDL/IDLWorkspace/Test/test.pro"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" path="/Test/test.pro"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" path="/LearnProject/LearnProject.pro"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" path="/LearnProject/chapter3.pro"/>
 </editors>
 <item historyLabel="default.pro" index="0">
 <position info="not_deleted" x="46" y="0"/>
@@ -169,8 +170,11 @@
 <item historyLabel="LearnProject.pro" index="3">
 <position info="not_deleted" x="36" y="0"/>
 </item>
-<item active="true" historyLabel="LearnProject.pro" index="3">
-<position info="not_deleted" x="58" y="0"/>
+<item historyLabel="LearnProject.pro" index="3">
+<position info="not_deleted" x="63" y="0"/>
+</item>
+<item active="true" historyLabel="chapter3.pro" index="4">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -189,6 +193,9 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" name="chapter3.pro" tooltip="LearnProject/chapter3.pro">
+<persistable path="/LearnProject/chapter3.pro"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.rsi.idldt.proeditor.ProEditor" name="LearnProject.pro" tooltip="LearnProject/LearnProject.pro">
 <persistable path="/LearnProject/LearnProject.pro"/>
 </file>
